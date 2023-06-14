@@ -1,4 +1,4 @@
-# 3DCDNet-Urb3DCD
+# 3DCDNet-Urb3DCD[paper link](https://github.com/wangle53/3DCDNet)
 The experimental code of 3DCDNet on Urb3DCD dataset.
 ![image](https://github.com/wangle53/3DCDNet-Urb3DCD/assets/79884379/f7485378-86f1-49aa-ace4-a943528b2d86)
 ![image](https://github.com/wangle53/3DCDNet-Urb3DCD/assets/79884379/2fd36523-598b-4746-8fef-a31f398097c4)
@@ -31,3 +31,6 @@ To display training processing, open 'http://localhost:8097' in your browser.
 If you use this repository or would like to refer the paper, please use the following BibTex entry.
 ## More
 [My personal google web](https://scholar.google.com/citations?user=qdkY0jcAAAAJ&hl=zh-TW)
+<p> 
+  <a href="https://scholar.google.com/citations?user=qdkY0jcAAAAJ&hl=zh-TW"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="25px"> </a>
+</p> 
