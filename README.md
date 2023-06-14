@@ -27,6 +27,8 @@ python -m visdom.server
 python train.py
 ```
 To display training processing, open 'http://localhost:8097' in your browser.
+### Experiments on SLPCCD dataset
+The experiments on SLPCCD dataset can be foud from [this link](https://github.com/wangle53/3DCDNet).
 ## Citing 3DCDNet
 If you use this repository or would like to refer the paper, please use the following BibTex entry.
 ## More
