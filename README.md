@@ -12,7 +12,7 @@ torchvision 0.9.0
 ## Urb3DCD Dataset
 The Urb3DCD Dataset can be found from ( I. de Gélis, S. Lefèvre, and T. Corpetti, “Change Detection in Urban Point Clouds: An Experimental Comparison with Simulated 3D Datasets,” Remote Sensing, vol. 13, no. 13, p. 2629, Jul. 2021, doi: 10.3390/rs13132629.)
 ## Pretrained Model
-The pretrained model fro Urb3DCD is available at  [[Google Drive]](https://drive.google.com/drive/folders/1ehQbfsGvOv4syc98r5PlhJDV88Q3bQlg?usp=sharing) and [[Baiduyun]](https://pan.baidu.com/s/1TlO1ua3meFGyWl4_khJTRA?pwd=txx5) (the password is: txx5).
+The pretrained model fro Urb3DCD is available at  [[Google Drive]](https://drive.google.com/drive/folders/1aRYWxR3ZRFhHzsrL-LLZ43sS934ZBQqh?usp=sharing) and [[Baiduyun]](https://pan.baidu.com/s/1TlO1ua3meFGyWl4_khJTRA?pwd=txx5) (the password is: txx5).
 ## Test
 Before test, please download datasets and pretrained models. Change path to your data path in configs.py. Copy pretrained models to folder './outputs_{sub_dataset_names}/best_weights', and run the following command: 
 ```
