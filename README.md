@@ -32,6 +32,17 @@ To display training processing, open 'http://localhost:8097' in your browser.
 The experiments on SLPCCD dataset can be foud from [this link](https://github.com/wangle53/3DCDNet).
 ## Citing 3DCDNet
 If you use this repository or would like to refer the paper, please use the following BibTex entry.
+```
+@ARTICLE{10184135,
+  author={Wang, Zhixue and Zhang, Yu and Luo, Lin and Yang, Kai and Xie, Liming},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={An End-to-End Point-Based Method and a New Dataset for Street-Level Point Cloud Change Detection}, 
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-15},
+  doi={10.1109/TGRS.2023.3295386}}
+```
 ## More
 [My personal google web](https://scholar.google.com/citations?user=qdkY0jcAAAAJ&hl=zh-TW)
 <p> 
